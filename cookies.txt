@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.scient.ac.in	TRUE	/	FALSE	1999999999	ci_session	a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2268ed9ce53dbd71eda588944e9af5bcd7%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2243.230.212.18%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1532421734%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D5878cf5d710b73572f7c1d9195cc2875
+

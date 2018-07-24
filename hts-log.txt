@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Jul 2018 14:04:39 at http://www.scient.ac.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.scient.ac.in/ -O1 "C:\Users\ARUN\Desktop\rak" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:13:29	Error: 	Exit requested by shell or user
+14:13:32	Error: 	"Not Found" (404) at link www.scient.ac.in/images/events/ (from www.scient.ac.in/)
+14:13:32	Error: 	"Cancelled by User" (-1) at link www.scient.ac.in/images/events/diwali_1921.JPG (from www.scient.ac.in/)
+14:13:43	Error: 	"Cancelled by User" (-1) at link www.scient.ac.in/images/gallery/0Z6A8942.JPG (from www.scient.ac.in/)
+14:13:43	Error: 	"Cancelled by User" (-1) at link www.scient.ac.in/images/gallery/0Z6A8992.JPG (from www.scient.ac.in/)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/css/misc.css (from www.scient.ac.in/css/style.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/css/main.css (from www.scient.ac.in/css/style.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/css/color-scheme.css (from www.scient.ac.in/css/style.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/css/responsive.css (from www.scient.ac.in/css/style.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/img/partnar-bg.jpg (from www.scient.ac.in/css/style.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/ajax-loader.gif (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/fonts/slick.eot (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/fonts/slick.eot? (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/fonts/slick.woff (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/fonts/slick.ttf (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Not Found" (404) at link www.scient.ac.in/css/fonts/slick.svg (from www.scient.ac.in/css/slick-theme.css)
+14:13:43	Error: 	"Cancelled by User" (-1) at link www.scient.ac.in/images/gallery/0Z6A8855.JPG (from www.scient.ac.in/home)
+14:13:43	Error: 	"Cancelled by User" (-1) at link www.scient.ac.in/images/gallery/GB_Debate.jpg (from www.scient.ac.in/home)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 4 seconds : 146 links scanned, 128 files written (9068658 bytes overall) [13600418 bytes received at 25000 bytes/sec]
+(18 errors, 0 warnings, 0 messages)
